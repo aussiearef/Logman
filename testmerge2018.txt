@@ -1,0 +1,1 @@
+This is to test the auto merge feature of TeamCity 2018
